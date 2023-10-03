@@ -1,0 +1,4 @@
+farm-haystack
+torch
+streamlit
+sentence_transformers
