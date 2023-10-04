@@ -4,7 +4,7 @@ To improve its speed and make it scalable i am working on it will be uploadling 
 To run this 
 in cmd type
 
-pip install -r req.txt
+pip install -r req.txt \n
 
 __________________________________
 
