@@ -6,7 +6,6 @@ in cmd type
 
 pip install -r req.txt \n
 
-__________________________________
 
 streamlit run app.py
 
