@@ -5,6 +5,9 @@ To run this
 in cmd type
 
 pip install -r req.txt
+
+__________________________________
+
 streamlit run app.py
 
 and there you go
